@@ -5665,6 +5665,20 @@ because it can operate at 3.3V</text>
 <wire x1="81.28" y1="45.72" x2="81.28" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
+<net name="ID_SD" class="0">
+<segment>
+<pinref part="J1" gate="G$1" pin="27"/>
+<wire x1="22.86" y1="134.62" x2="17.78" y2="134.62" width="0.1524" layer="91"/>
+<label x="17.78" y="134.62" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+</net>
+<net name="ID_SC" class="0">
+<segment>
+<pinref part="J1" gate="G$1" pin="28"/>
+<wire x1="38.1" y1="134.62" x2="43.18" y2="134.62" width="0.1524" layer="91"/>
+<label x="43.18" y="134.62" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>

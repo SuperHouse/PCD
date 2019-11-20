@@ -1755,6 +1755,12 @@ Basic SMA packaged diode. Good for reverse polarization protection. Common part 
 <wire x1="59" y1="24.54" x2="61.222" y2="24.54" width="0.254" layer="1"/>
 <wire x1="61.222" y1="24.54" x2="62" y2="23.762" width="0.254" layer="1"/>
 </signal>
+<signal name="ID_SD">
+<contactref element="J1" pad="27"/>
+</signal>
+<signal name="ID_SC">
+<contactref element="J1" pad="28"/>
+</signal>
 </signals>
 <mfgpreviewcolors>
 <mfgpreviewcolor name="soldermaskcolor" color="0xC8008000"/>
