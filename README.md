@@ -1,5 +1,5 @@
-CAN bus hat for Raspberry Pi
-============================
+PiCAN Display Hat for Raspberry Pi
+==================================
 Designed by Jonathan Oxer <jon@oxer.com.au>
 
 FEATURES
@@ -9,7 +9,9 @@ Supply power via CAN bus, screw terminals, 2.1mm DC jack, or the
 PoE header on Raspberry Pi 3 B+. Regulates down to 5V to supply the
 Raspberry Pi.
 
-MCP2515/TCAN332 based CAN bus interface.
+TCAN332 + MCP2515 based CAN bus interface.
+
+0.96" I2C OLED.
 
 INSTALLATION
 ------------
