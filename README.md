@@ -1,14 +1,15 @@
-Voltage Regulator Hat for Raspberry Pi
-=======================================
-Designed by Nick Fryer and Jonathan Oxer
+CAN bus hat for Raspberry Pi
+============================
+Designed by Jonathan Oxer <jon@oxer.com.au>
 
 FEATURES
 --------
 
-Supply power via screw terminals, 2.1mm DC jack, or the PoE header on
-Raspberry Pi 3 B+. Regulates down to 5V to supply the Raspberry Pi.
+Supply power via CAN bus, screw terminals, 2.1mm DC jack, or the
+PoE header on Raspberry Pi 3 B+. Regulates down to 5V to supply the
+Raspberry Pi.
 
-I2C header and prototyping area.
+MCP2515/TCAN332 based CAN bus interface.
 
 INSTALLATION
 ------------
